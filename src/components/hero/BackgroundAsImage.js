@@ -86,9 +86,9 @@ export default () => {
           <LeftColumn>
             <Notification>Where Vision Meets Craftsmanship</Notification>
             <Heading>
-              <span>Hire the best</span>
+              <span>Shaping the Future of </span>
               <br />
-              <SlantedBackground>Constructing Team.</SlantedBackground>
+              <SlantedBackground>Infrastructure.</SlantedBackground>
             </Heading>
             <PrimaryAction>Read Customer Stories</PrimaryAction>
           </LeftColumn>
